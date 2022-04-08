@@ -1,7 +1,7 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: Montserrat, sans-serif;
-  letter-spacing: 0.6px;
+  line-height: 23px;
   color: rgb(33, 33, 33);
   font-size: 14px;
   font-weight: 400;
@@ -48,7 +48,7 @@ li:hover {
 
 .lado-direito {
   max-width: 800px;
-  margin-bottom: 250px;
+  margin-bottom: 350px;
 }
 
 aside {
